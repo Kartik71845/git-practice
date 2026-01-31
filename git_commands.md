@@ -64,7 +64,7 @@ git commit -m “Created a Readme.txt”        // Commit staged changes with a 
  12. git log
 To check the history of commits for our reference. 
 
-git log                                                  // View commit history with details like author, date, and message
+git log                                                  // View Commit history with details like author, date, and message
 
 
 13. git add
