@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. git help
 Take help from the Git help section for different commands and other errors.  
 
@@ -298,3 +299,6 @@ git rebase
 used to show the current version of Git
 
 git –version
+=======
+EMPTY
+>>>>>>> new
