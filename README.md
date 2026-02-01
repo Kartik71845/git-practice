@@ -1,5 +1,4 @@
-Git Commands Reference
-
+Git commands Reference
 This repository contains the most commonly used Git commands with a short explanation of what they do and when to use them.
 It is created for learning, revision, and interview preparation.
 
