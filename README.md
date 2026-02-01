@@ -1,5 +1,4 @@
-Git Commands Reference
-
+Git commands Reference
 This repository contains the most commonly used Git commands with a short explanation of what they do and when to use them.
 It is created for learning, revision, and interview preparation.
 
@@ -133,4 +132,4 @@ Git manages application code, Docker files, and CI/CD configs
 
 Branches and Pull Requests protect the main branch
 
-Tags help in release management and rollback
+Tags help in release management and rollback...
