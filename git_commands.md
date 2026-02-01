@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 EMPTY
+=======
+<<<<<<< HEAD
+>>>>>>> 962016520e98412343d41a5f845f56016abf110a
 1. git help
 Take help from the Git help section for different commands and other errors.  
 
@@ -298,4 +302,11 @@ git rebase
 50. git –version
 used to show the current version of Git
 
+<<<<<<< HEAD
 git –version
+=======
+git –version
+=======
+EMPTY
+>>>>>>> new
+>>>>>>> 962016520e98412343d41a5f845f56016abf110a
