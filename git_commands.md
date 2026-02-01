@@ -23,7 +23,7 @@ git config –-global user.email ashishmadaan6@gmail.com     // Set global email
 5. git config –-global color.ui
 To see different colors on the command line for different outputs.  
 
-git config –-global color.ui true                           //  Enable color highlighting       
+git config –-global color.ui true                           //  Enable colour highlighting       
 
 
 6. mkdir
