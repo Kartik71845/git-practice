@@ -132,4 +132,4 @@ Git manages application code, Docker files, and CI/CD configs
 
 Branches and Pull Requests protect the main branch
 
-Tags help in release management and rollback
+Tags help in release management and rollback...
