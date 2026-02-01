@@ -1,5 +1,5 @@
 1. git help
-Take help from the Git help section for different commands and other errors.  
+Take help from the Git help section for different commands and other errors...
 
 git help       //Get help on Git Commands
 2. git config
