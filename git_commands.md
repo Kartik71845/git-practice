@@ -1,4 +1,4 @@
-1. git help
+1. git help ..
 Take help from the Git help section for different commands and other errors.  
 
 git help       //Get help on Git Commands
