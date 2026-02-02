@@ -133,8 +133,12 @@ Git manages application code, Docker files, and CI/CD configs
 Branches and Pull Requests protect the main branch
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Tags help in release management and rollback...
 >>>>>>> 3151e3a (edited)
+=======
+Tags help in release management and rollback
+>>>>>>> parent of b5a3976 (edited)
 =======
 Tags help in release management and rollback
 >>>>>>> parent of b5a3976 (edited)
